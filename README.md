@@ -2,7 +2,7 @@
   Java console application implementing custom linear data structures, trees, hashing, and graph network algorithms for university student management and campus route navigation.
 
 # Course Details
-  Module:** CIT300 - Data Structures and Algorithms
+  Module: CIT300 - Data Structures and Algorithms
   Assignment: Graded Practical Assignment 1 (Week 10)
   Institution: Sri Lanka Technological Campus (SLTC)
 
