@@ -7,7 +7,14 @@
   Institution: Sri Lanka Technological Campus (SLTC)
 
 # Group Members:
-  1. K. G. S. Madusanka        - 22ug3-0122 (22ug3-0122@sltc.ac.lk)
-  2. K. D. T. Ishinika         - 22ug3-0474 (22ug3-0474@sltc.ac.lk)
+  1. K. G. S. Madusanka         - 22ug3-0122 (22ug3-0122@sltc.ac.lk)
+  2. K. D. T. Ishinika          - 22ug3-0474 (22ug3-0474@sltc.ac.lk)
   3. P. K. Niranjan Wijebandara - 22ug3-0257 (22ug3-0257@sltc.ac.lk)
-  4. Kalana Helanjith           - 22ug3-0604 (22ug3-0604@sltc.ac.lk)
+  4. G. A. Kalana Helanjith     - 22ug3-0604 (22ug3-0604@sltc.ac.lk)
+
+# How to Run:
+  1. Compile the Java project:
+        javac Main.java
+     
+  3. Run the console application:
+        java Main
